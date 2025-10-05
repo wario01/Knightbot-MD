@@ -2,8 +2,8 @@ const settings = {
   packname: 'Knight Bot',
   author: '‎',
   botName: "Knight Bot",
-  botOwner: 'Enigmatic Wario', // Your name
-  ownerNumber: '+254748664019', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: 'ENIGMA', // Your name
+  ownerNumber: '254748664019', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
